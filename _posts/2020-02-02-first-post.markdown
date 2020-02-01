@@ -2,10 +2,10 @@
 layout: post
 title:  "Jekyll 글의 메타데이터 중에서 date 확인하기"
 date:   2020-02-02 00:12:01 +0900
-categories: Text Markdown
+categories: Bash
 ---
 
-Jekyll를 처음 사용하게 되면서 테스트 할 겸, 간단한 포스트를 작성해보고자 합니다.
+안녕하세요. 이번에 Jekyll를 처음 사용하게 되면서 테스트도 할 겸, 간단한 포스트를 작성해보고자 합니다.
 
 Jekyll에서는 포스트 작성 시, 메타데이터를 아래와 같이 입력하게 됩니다.
 
@@ -27,7 +27,5 @@ categories: Bash
 $ date +"%Y-%m-%d %H:%M:%S %z"
 2020-02-02 00:33:00 +0900
 ```
-
-
 
 이상 테스트 겸 간단한 포스트였습니다.
