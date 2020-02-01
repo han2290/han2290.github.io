@@ -1,5 +1,6 @@
 remote_theme: thelehhman/plainwhite-jekyll
-
+url: "https://han2290.github.io"
+baseurl:""
 
 
 title: Your awesome title
