@@ -26,10 +26,14 @@ plainwhite:
   
   # Navigate
   navigation:
-    - title: My Work
-      url: "/my-work"
-    - title: Resume
-      url: "/resume"
+    - title: Bash
+      url: "/bash"
+	  
+    - title: Java
+      url: "/java"
+	  
+	- title: Spring
+      url: "/spring"
 
   # generate social links in footer
   social_links:
