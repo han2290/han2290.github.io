@@ -30,8 +30,8 @@ plainwhite:
       url: "/bash"	  
     - title: Java
       url: "/java"
-	- title: Spring
-	  url: "/spring"
+    - title: Spring
+      url: "/spring"
 
   # generate social links in footer
   social_links:
