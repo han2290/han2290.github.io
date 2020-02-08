@@ -27,13 +27,11 @@ plainwhite:
   # Navigate
   navigation:
     - title: Bash
-      url: "/bash"
-	  
+      url: "/bash"	  
     - title: Java
       url: "/java"
-	  
 	- title: Spring
-      url: "/spring"
+	  url: "/spring"
 
   # generate social links in footer
   social_links:
